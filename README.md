@@ -1,16 +1,50 @@
-## Hi there 👋
+# 🌸 Hi there, I'm Nur Nabilah Aqilah!
 
-<!--
-**qqilazln/qqilazln** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a student passionate about tech, learning, and growing every day
+💻 Currently exploring programming, networking & problem-solving
+🌱 Always improving myself — both in skills and mindset
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ✨ About Me
+
+* 📍 Based in Malaysia
+* 📚 Studying in the field of Software Engineering
+* 💡 Interested in:
+
+  * Web Development
+  * Networking & Systems
+  * Tech + Creativity
+
+---
+
+## 🛠️ Skills & Tools
+
+* 💻 Languages: C / C++ / Python / HTML / CSS / Java
+* 🌐 Networking: Cisco Packet Tracer
+* ⚙️ Tools: Git, GitHub, VS Code
+
+---
+
+## 📌 Current Goals
+
+* 🚀 Improve coding skills consistently
+* 📖 Build more projects for my portfolio
+* 💡 Learn real-world problem solving
+
+---
+
+## 📊 GitHub Stats
+
+![Nabilah's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME\&show_icons=true\&theme=tokyonight)
+
+---
+
+## 🤝 Let's Connect
+
+* 💌 Feel free to reach out or collaborate!
+* 🌐 (Add your socials here if you want)
+
+---
+
+✨ *“Small progress is still progress.”*
