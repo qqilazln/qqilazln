@@ -1,4 +1,4 @@
-# 🌸 Hi there, I'm Nur Nabilah Aqilah!
+# 🌸 Hi there, I'm Nur Nabilah Aqilah
 
 🎓 I'm a student passionate about tech, learning, and growing every day
 💻 Currently exploring programming, networking & problem-solving
@@ -31,13 +31,7 @@
 * 🚀 Improve coding skills consistently
 * 📖 Build more projects for my portfolio
 * 💡 Learn real-world problem solving
-
----
-
-## 📊 GitHub Stats
-
-![Nabilah's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME\&show_icons=true\&theme=tokyonight)
-
+  
 ---
 
 ## 🤝 Let's Connect
